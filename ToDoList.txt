@@ -14,7 +14,7 @@ Completed:
 - Periodically instantiate balls
 - Set fixed aspect 
 - Stop board from overscrolling (Boards now have rigidbody2D components)
-
+- Wall sections change color, and changes ball color (This might be a bit too crazy as is, but fun)
 
 
 
