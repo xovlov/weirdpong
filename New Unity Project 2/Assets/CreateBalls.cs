@@ -11,6 +11,7 @@ public class CreateBalls : MonoBehaviour {
 			newBall ();
 		}
 
+		// Creates new ball every 5 seconds
 		InvokeRepeating ("newBall", 5f, 5f);
 	
 	}
