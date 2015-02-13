@@ -1,12 +1,11 @@
-﻿ToDo:
+ToDo:
 —————————————————————————————
 
 - Bounce of board physics
 - Point counter / respond
-- Stop board from overscrolling
 - Trails + Halo + Light Flares
 - Weird balls? -> fix start velocity settings
-- Camera size / sprite size / layout
+- Camera size / sprite size / layout  (I adjusted the camera and wall locations slightly - Ty)
 
 
 Completed:
@@ -14,7 +13,7 @@ Completed:
 
 - Periodically instantiate balls
 - Set fixed aspect 
-
+- Stop board from overscrolling (Boards now have rigidbody2D components)
 
 
 
