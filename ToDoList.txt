@@ -1,0 +1,27 @@
+ToDo:
+—————————————————————————————
+
+- Bounce of board physics
+- Point counter / respond
+- Stop board from overscroling
+- Trails
+- Weird balls?
+
+
+Completed:
+—————————————————————————————
+
+- Periodically instantiate balls 
+
+
+
+
+
+
+
+Stretch goals:
+—————————————————————————————
+
+- sound effects
+- strobe effects
+- wall colour change
