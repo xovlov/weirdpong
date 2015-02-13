@@ -13,6 +13,10 @@ public class BallScript : MonoBehaviour {
 		SpriteRenderer renderer = gameObject.GetComponent <SpriteRenderer>();
 		renderer.color = startColor();
 
+		Color ballcolor = renderer.color;
+		LensFlare ballflare = gameObject.GetComponent<LensFlare> ();
+		ballflare.color = ballcolor;
+
 		// Random start velocity
 		int start_x = Random.Range (minspeed, maxspeed);
 		int x_neg = Random.Range (0, 2);

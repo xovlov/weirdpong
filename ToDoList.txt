@@ -1,17 +1,19 @@
-ToDo:
+﻿ToDo:
 —————————————————————————————
 
 - Bounce of board physics
 - Point counter / respond
-- Stop board from overscroling
-- Trails
-- Weird balls?
+- Stop board from overscrolling
+- Trails + Halo + Light Flares
+- Weird balls? -> fix start velocity settings
+- Camera size / sprite size / layout
 
 
 Completed:
 —————————————————————————————
 
-- Periodically instantiate balls 
+- Periodically instantiate balls
+- Set fixed aspect 
 
 
 
@@ -25,3 +27,5 @@ Stretch goals:
 - sound effects
 - strobe effects
 - wall colour change
+- Adapt keycodes to controllers
+- "Press to start" / Start menu
