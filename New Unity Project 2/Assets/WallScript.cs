@@ -48,5 +48,7 @@ public class WallScript : MonoBehaviour {
 			// Randomizes wall's new color
 			wallRenderer.color = startColor();
 		}
+
+		audio.Play ();
 	}
 }
